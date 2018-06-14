@@ -1,2 +1,4 @@
 # nicholaschiang.github.io
-Personal Blog Site
+Nicholas Chiang
+
+Gunn High School '22 | Cellist | SVKarate | CMT | BSA
