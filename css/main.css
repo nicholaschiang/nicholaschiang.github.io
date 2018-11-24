@@ -21,7 +21,8 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: "Akura_Popo";
+    src:url("C:/Users/Downloads/nicholaschiang.github.io_website_project/Akura_Popo.ttf");
 }
 h2 {
     font-size: 2em;
