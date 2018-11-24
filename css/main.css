@@ -3,7 +3,8 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Akura_Popo";
+    src:url("C:/Users/Downloads/nicholaschiang.github.io_website_project/Akura_Popo.ttf");
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,17 +22,19 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Akura_Popo";
+    src:url("C:/Users/Downloads/nicholaschiang.github.io_website_project/Akura_Popo.ttf");
 }
 h2 {
     font-size: 2em;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Akura_Popo";
+    src:url("C:/Users/Downloads/nicholaschiang.github.io_website_project/Akura_Popo.ttf");
 }
 h3 {
     font-size: 1em;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Akura_Popo";
+    src:url("C:/Users/Downloads/nicholaschiang.github.io_website_project/Akura_Popo.ttf");
 p {
-    font-family: 'Raleway', sans-serif;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
