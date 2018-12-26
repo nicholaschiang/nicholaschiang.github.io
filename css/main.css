@@ -55,6 +55,7 @@ footer {
     font-family: "Junction-Bold";
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    margin: 0px auto;
 }
 
 ul.posts {
