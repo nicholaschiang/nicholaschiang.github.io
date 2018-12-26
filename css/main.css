@@ -26,6 +26,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
+    font-family: "Junction-Light";
     text-decoration: none;
     color: #999;
 }
@@ -50,15 +51,18 @@ p {
     color: #333;
 }
 footer {
+    font-family: "Junction-Bold";
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
 ul.posts {
+    font-family: "Junction-Light";
     margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
+    font-family: "Junction-Light";
     list-style: none;
 }
