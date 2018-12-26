@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minimalism PSA"
-date: 2014-04-30
+date: 2018-11-24
 ---
 
 <iframe frameborder="0" width="560" height="315" src="https://biteable.com/watch/embed/minimalism-psa-2066406" allowfullscreen="true" allow="autoplay"></iframe>
