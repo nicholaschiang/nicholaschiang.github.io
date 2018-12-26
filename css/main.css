@@ -1,10 +1,22 @@
+@font-face {
+  font-family: Junction;
+  src: url("../nicholaschiang.github.io/css/Junction-regular.otf");
+}
+@font-face {
+  font-family: Junction-Bold;
+  src: url("../nicholaschiang.github.io/css/Junction-bold.otf");
+}
+@font-face {
+  font-family: Junction-Light;
+  src: url("../nicholaschiang.github.io/css/Junction-light.otf");
+}
+
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
     font-family: "Junction-Bold";
-    src: url("../nicholaschiang.github.io/css/Junction-bold.otf");
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -23,21 +35,17 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family: "Junction";
-    src: url("../nicholaschiang.github.io/css/Junction-regular.otf");
 }
 h2 {
     font-size: 2em;
     font-family: "Junction";
-    src: url("../nicholaschiang.github.io/css/Junction-regular.otf");
 }
 h3 {
     font-size: 1em;
     font-family: "Junction";
-    src: url("../nicholaschiang.github.io/css/Junction-regular.otf");
 p {
     font-size: 1.5em;
     font-family: "Junction-Light";
-    src: url("../nicholaschiang.github.io/css/Junction-light.otf");
     line-height: 1.4em;
     color: #333;
 }
