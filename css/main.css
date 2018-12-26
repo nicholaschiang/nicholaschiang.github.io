@@ -3,8 +3,8 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: "Akura_Popo";
-    src:url("C:/Users/Downloads/nicholaschiang.github.io_website_project/Akura_Popo.ttf");
+    font-family: "Junction-Bold";
+    src: url("../nicholaschiang.github.io/css/Junction-bold.otf");
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -22,20 +22,22 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: "Akura_Popo";
-    src:url("C:/Users/Downloads/nicholaschiang.github.io_website_project/Akura_Popo.ttf");
+    font-family: "Junction";
+    src: url("../nicholaschiang.github.io/css/Junction-regular.otf");
 }
 h2 {
     font-size: 2em;
-    font-family: "Akura_Popo";
-    src:url("C:/Users/Downloads/nicholaschiang.github.io_website_project/Akura_Popo.ttf");
+    font-family: "Junction";
+    src: url("../nicholaschiang.github.io/css/Junction-regular.otf");
 }
 h3 {
     font-size: 1em;
-    font-family: "Akura_Popo";
-    src:url("C:/Users/Downloads/nicholaschiang.github.io_website_project/Akura_Popo.ttf");
+    font-family: "Junction";
+    src: url("../nicholaschiang.github.io/css/Junction-regular.otf");
 p {
     font-size: 1.5em;
+    font-family: "Junction-Light";
+    src: url("../nicholaschiang.github.io/css/Junction-light.otf");
     line-height: 1.4em;
     color: #333;
 }
@@ -44,8 +46,8 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
