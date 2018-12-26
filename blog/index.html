@@ -6,6 +6,6 @@ title: Nicholas Chiang's Blog
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br><span>{{ post.date | date_to_string }}</span><h3>
+	    <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><h3><p><br><span>{{ post.date | date_to_string }}</span></p>
 	  {% endfor %}
 	</ul>
