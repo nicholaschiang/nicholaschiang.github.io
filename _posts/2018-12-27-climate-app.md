@@ -4,8 +4,10 @@ title: "Climate App Project"
 date: 2018-12-27
 ---
 
-I know that it's only been a day since I first posted about my ESK8 endeavor, but (as it is winter break, and I don't have much else to do) I decided that I might as well post about this as well. While this will probably get taken down as soon as I actually finish the project, I'm going to continue to update this as I progress in order to document the build process and make it easier to realize other app ideas.
+# Climate App
+The following description was originally written for a blog post, so excuse any informality or typos.
 
+## Goals and Inspiration (basically the *so-what?!*)
 My main driver for this project is just so that I can say that I tried, that I actually did *something* to try to solve our over-arching problem: **global warming**. Another one of the original motivations was to actually write something applicable for my English letter-to-authority (about something that needs to change, etc.) project... so, of course, I decided to write to Elon Musk regarding a global warming solution: a mobile carbon emissions tracker, something that could be easily distributed to millions with little (haha, basically none for me) entry cost, an app that would encourage people to change individual by individual.
 
 So I'm here to try to document how I went about learning about Andriod and iOS app development (as I've never done this before) and how I ultimately either finish such an app or why I might give up in the future.
@@ -17,7 +19,9 @@ Stay tuned...
 ## The Dream
 I wanted to create an app that, with the little initial setup of selecting your main vehicle of commute (i.e. car make and model), one could tell exactly how big their carbon footprint is and how to best reduce that carbon footprint to a more sustainable model. (I would calculate their daily *carbon quota* based off that car and give them a goal to reach in order to make living on Earth sustainable... i.e. the point where we start reducing carbon instead of adding)
 
-## Progress (mostly problems)
+## Progress
+As of right now, this is going to be mostly me just discovering new problems that I didn't think of before.
+
 The first big problem that I encountered was the issue of actually putting together a reliable database with an adequate selection of cars and their correlating carbon emissions.
 
 That's the problem that I'm working on right now... and I haven't made much progress as of now.
@@ -51,3 +55,16 @@ This is where I'll be basically solving problems like a centralized database for
 This is basically just a bunch of goals for me to work towards.
 - Implement negative pbar with user input (i.e. buttons)
 - Add basic carbon emissions calculator (right now only based off miles traveled, MPG, and type of fuel)
+
+***
+
+## Problems
+Here is where I'm going to record problems encountered (kinda like the *Progress* subtitle) and how I'm going to go about solving those problems. The biggest reason why I'm actually putting this *blog post* up is essentially just for me to have a centralized place to record ideas and compile research. (Though I should probably put together a GitHub repos for this purpose as well... I'll link that above)
+
+### Carbon Footprint Calculator
+My first and foremost problem is to provide an easy way to calculate one's carbon emissions. And although it appears that there are already a bunch of such calculators already out there, I think it'll be a good exercise to try and make one myself. Here goes...
+
+#### Input by VIN (vehicle identification number)
+This would be one easy catch-all number with a lot of useful info... but that might be the problem, too much info so people might not want to share it with some random app.
+
+![Diagram showing info that can be determined by VIN](https://www.autocheck.com/medias/vin-decode.jpg?context=bWFzdGVyfGltYWdlc3w3MjE4MnxpbWFnZS9qcGVnfGltYWdlcy9oMmYvaGI0Lzg3OTcyNjY0NzcwODYuanBnfGE3NmExODMzODRlZmVkYThlNDFlMTI1MDUxM2RjZmRjYjAxMTBjZTYwMjVlMTc2NTU4OWRiNzI0MzE4N2FlY2U "VIN Info Diagram")
