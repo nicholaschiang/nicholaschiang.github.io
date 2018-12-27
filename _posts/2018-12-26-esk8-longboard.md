@@ -12,20 +12,23 @@ For Christmas this year (and I guess also for my birthday... as they're both on 
 
 So I decided that I would compile all of the useful links and info regarding such an endeavor here so as to:
 > 1. Make it easy for me to find previously discovered wikis or other useful articles
+
 > 2. Provide a much more streamlined research experience for any other maker also interested in doing such an upgrade
 
 Here goes nothing... (Oh, and if you haven't already, make sure to check out the official [ESK8 Wiki](https://www.electric-skateboard.builders))
 
 ***
 
-Resources (Useful Background Info, etc.)
+## Resources
+ (Useful Background Info, etc.):
 - [VESC Background](https://www.electric-skateboard.builders/t/new-vesc-user-read-this-complete-walktrough-of-the-vesc/2980/2)
 - [High level walkthrough](https://www.electric-skateboard.builders/t/wiki-a-beginner-guide-to-diy-an-esk8/46844)
 - [Drivetrain Background](https://www.electric-skateboard.builders/t/beginners-guide-to-building-your-own-electric-skateboard-drivetrain/53)
-- Battery
+- Battery *I have yet to find a solid background article on what to look for in a good battery... soon to be updated*
 
-To Buy (Dream-like Budget Aim of less than $200... turns out to be about $500 for a decent build)
-- [Amazon Drive-train Kit](https://www.amazon.com/ZXMOTO-Electric-Longboard-Skateboard-Sensorless/dp/B07GCM4J48?imprToken=P5aeICpN5N7XWETazT1XfQ&slotNum=22&SubscriptionId=AKIAISS54SGFYFC42ZIA&tag=mpscooter-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07GCM4J48)
-- [VESC](https://diyelectricskateboard.com/collections/esc-speed-controller/products/torque-esc-bldc-electronic-speed-controller)
-- Battery
-- Remote? or Phone App?
+## To Buy
+(Based originally on a now-dream-like budget of less than $200... turns out to be about a bare minimum of $500 for a decent build):
+- **$175**[Amazon Drive-train Kit](https://www.amazon.com/ZXMOTO-Electric-Longboard-Skateboard-Sensorless/dp/B07GCM4J48?imprToken=P5aeICpN5N7XWETazT1XfQ&slotNum=22&SubscriptionId=AKIAISS54SGFYFC42ZIA&tag=mpscooter-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07GCM4J48)
+- **$85**[VESC](https://diyelectricskateboard.com/collections/esc-speed-controller/products/torque-esc-bldc-electronic-speed-controller)
+- **$300** Battery *This is the real cost of making a solid, practical build... a better battery means better mileage, faster speeds, faster recharge times, etc.*
+- **$20** Remote? or Phone App?
