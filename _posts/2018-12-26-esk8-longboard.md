@@ -6,7 +6,7 @@ date: 2018-12-26
 
 This could definitely turn out to be a very long thread, so I'll try to keep the backstory intro short.
 
-For Christmas this year (and I guess also for my birthday... as they're both on 12/25), I was gifted a *Magneto 44 Inch Kicktail Cruiser Longboard* after expressing some interest in an electric skateboard (thinking it would be cool to try out a *Boosted Board* as a way to switch up the commute to school) on my Christmas list. And while this was definitely a nice gift, after taking it around the block, I immediately started researching the cheapest way to upgrade it to an electric-motor-powered vehicle in a sustainable fashion (i.e. relatively durable components).
+For Christmas this year (and I guess also for my birthday... as they're both on 12/25), I was gifted a *Magneto 44 Inch Kicktail Cruiser* [Longboard](https://magnetoboards.com/kick-tail-cruiser-longboard-44in.html?gclid=CjwKCAiAx4fhBRB6EiwA3cV4Kp9N5lRj1jH80wUMhGCxWiWn0hnWpeyFJfSkij6gl-O8nChrg94GARoCTDQQAvD_BwE) after expressing some interest in an electric skateboard (thinking it would be cool to try out a *Boosted Board* as a way to switch up the commute to school) on my Christmas list. And while this was definitely a nice gift, after taking it around the block, I immediately started researching the cheapest way to upgrade it to an electric-motor-powered vehicle in a sustainable fashion (i.e. relatively durable components).
 
 ![Photo of what my new Magneto Kicktail Cruiser looks like...](http://nicholaschiang.github.io/images/magneto-kicktail-cruiser-longboard.jpg "Magneto Kicktail Cruiser Longboard")
 
