@@ -11,9 +11,9 @@ For Christmas this year (and I guess also for my birthday... as they're both on 
 ![Photo of what my new Magneto Kicktail Cruiser looks like...](http://nicholaschiang.github.io/images/magneto-kicktail-cruiser-longboard.jpg "Magneto Kicktail Cruiser Longboard")
 
 So I decided that I would compile all of the useful links and info regarding such an endeavor here so as to:
-> 1. Make it easy for me to find previously discovered wikis or other useful articles
+> 1) Make it easy for me to find previously discovered wikis or other useful articles
 
-> 2. Provide a much more streamlined research experience for any other maker also interested in doing such an upgrade
+> 2) Provide a much more streamlined research experience for any other maker also interested in doing such an upgrade
 
 Here goes nothing... (Oh, and if you haven't already, make sure to check out the official [ESK8 Wiki](https://www.electric-skateboard.builders))
 
