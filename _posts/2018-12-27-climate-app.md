@@ -16,7 +16,7 @@ Stay tuned...
 
 ***
 
-![Artistic depiction of how our world is changing...](http://nicholaschiang.github.io/images/global-warming.jpg "Artistic Depiction of Global Warming")
+<img src="http://nicholaschiang.github.io/images/global-warming.jpg" alt="Artistic depiction of how our world is changing..." width="918" height="678">
 
 ***
 
