@@ -22,6 +22,8 @@ The first big problem that I encountered was the issue of actually putting toget
 
 That's the problem that I'm working on right now... and I haven't made much progress as of now.
 
+***
+
 ## The Plan
 This is where I'm going to list out what I want my app to do in the long run and how I'm working towards those goals in the moment. This will probably be always changing as I learn more... so nothing here is set in stone.
 
@@ -31,14 +33,21 @@ This is what the user will see when opening the app for the first time. (Listed 
 - Make and model of car (Or one could just take a picture of their license plate? Or Vehicle Identification Number? >> probably not, as some people might not want to due to privacy reasons)
 - Commute (Or connect apps like *Google Maps* or *Waze* to automatically input commute length, etc.)
 
-### Screens (what's on the nav bar)
+### Screens (what's on the navigation bar)
 Listed below are the different tools or activities (in Andriod lingo) that will be built into the final app.
 - Daily carbon quota and progress (i.e. negative pbar: Starts out full at the beginning of the day and slowly gets used up as carbon is released) >> This will probably also have a card-view system (not unlike *Instagram* or the *Facebook* mobile app with a scrolling interface) to show suggestions and snippets of the *Statistics* tool
 - Advanced carbon footprint calculator (probably just taken off of one of the existing web calculators and fine-tuned for this application)
 - Settings (to add cars, change other calculator input)
 - Statistics (based off what is inputted during setup and the *Settings* screen, this tool will show the user exactly how much carbon is being released by what etc.)
 
-### Infastructure
+### Infrastructure
 This is where I'll be basically solving problems like a centralized database for cars and their correlating average carbon emissions (now I'm thinking that *carbon emissions* will just become the *MPG* of any given car).
 - Centralized car MPG database
 - Easy way to input commute by connecting apps (i.e. *Google Maps* or *Waze* as we're just targeting Andriod users for now)
+
+***
+
+## Timeline
+This is basically just a bunch of goals for me to work towards.
+- Implement negative pbar with user input (i.e. buttons)
+- Add basic carbon emissions calculator (right now only based off miles traveled, MPG, and type of fuel)
