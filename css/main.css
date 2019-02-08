@@ -1,14 +1,14 @@
 @font-face {
   font-family: Junction;
-  src: url("../nicholaschiang.github.io/css/Junction-regular.otf");
+  src: url("/css/Junction-regular.otf");
 }
 @font-face {
   font-family: Junction-Bold;
-  src: url("../nicholaschiang.github.io/css/Junction-bold.otf");
+  src: url("/css/Junction-bold.otf");
 }
 @font-face {
   font-family: Junction-Light;
-  src: url("../nicholaschiang.github.io/css/Junction-light.otf");
+  src: url("/css/Junction-light.otf");
 }
 
 body {
