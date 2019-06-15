@@ -866,7 +866,7 @@ footer img {
     right: 10px;
     text-align: center;
     color: #fff;
-    background: rgba(51, 114, 223, 0.8);
+    background: #0395DE;
     visibility: hidden;
     opacity: 0;
     -webkit-transition: opacity .3s 0s, visibility 0s .3s;
@@ -892,7 +892,7 @@ footer img {
 
 .no-touch .cd-top:hover,
 .no-touch .cd-top:focus {
-    background-color: #0395DE; /* Original: #ffbf00 */;
+    background-color: #007BC2; /* Color 10% darker than the original. */;
     opacity: 1;
     color: #fff;
 }
@@ -1101,7 +1101,7 @@ textarea:focus {
 
 .btn-box:hover,
 .btn-box:focus {
-    background: #F5B700;
+    background: #007BC2; /* Color 10% darker than original` */
     color: #fff;
 }
 

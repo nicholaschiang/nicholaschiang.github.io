@@ -6,18 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Box personal portfolio Template</title>
+    <title>Nicholas Chiang</title>
+    <link rel="icon" href="img/headset_logo_square.png" type="image/x-icon">
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="ionicons/css/ionicons.min.css" rel="stylesheet">
-    <link rel="icon" href="img/fav.png" type="image/x-icon">
 
     <!-- main css -->
     <link href="css/style.css" rel="stylesheet">
 
 
     <!-- modernizr -->
+    <script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js"></script>
     <script src="js/modernizr.js"></script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -42,10 +43,15 @@
     <!-- end Preloader -->
 
     <div class="container-fluid">
-        <!-- box-header -->
+        <!-- box header -->
         <header class="box-header">
             <div class="box-logo">
-                <a href="index.html"><img src="img/logo.png" width="80" alt="Logo"></a>
+                <!--
+                   -<a href="index.html"><img src="img/logo.png" width="80" alt="Logo"></a>
+		   -->
+                <a href="index.html">
+                    <h3>Nicholas Chiang<span>.</span></h3>
+                </a>
             </div>
             <!-- box-nav -->
             <a class="box-primary-nav-trigger" href="#0">
@@ -53,27 +59,38 @@
             </a>
             <!-- box-primary-nav-trigger -->
         </header>
-        <!-- end box-header -->
+        <!-- end box header -->
 
         <!-- nav -->
         <nav>
             <ul class="box-primary-nav">
                 <li class="box-label">About me</li>
 
-                <li><a href="index.html">Intro</a></li>
-                <li><a href="about.html">About me</a></li>
-                <li><a href="services.html">services</a></li>
-                <li><a href="portfolio.html">portfolio</a></li>
-                <li><a href="contact.html">contact me</a> <i class="ion-ios-circle-filled color"></i></li>
-
-
+                <li><a href="index.html">Intro</a> <i class="ion-ios-circle-filled color"></i></li>
+                <!--
+                   -<li><a href="https://sing.stanford.edu/site/publications/hack-lctes19.pdf">Papers</a></li>
+		   -->
+                <li><a href="publications.html">Papers</a></li>
+                <li><a href="resume.pdf">resume</a></li>
+                <li><a href="contact.html">contact</a></li>
 
                 <li class="box-label">Follow me</li>
 
-                <li class="box-social"><a href="#0"><i class="ion-social-facebook"></i></a></li>
-                <li class="box-social"><a href="#0"><i class="ion-social-instagram-outline"></i></a></li>
-                <li class="box-social"><a href="#0"><i class="ion-social-twitter"></i></a></li>
-                <li class="box-social"><a href="#0"><i class="ion-social-dribbble"></i></a></li>
+                <li class="box-social"><a href="#0">
+                        <ion-icon name="logo-facebook"></ion-icon>
+                    </a></li>
+                <li class="box-social"><a href="#0">
+                        <ion-icon name="logo-instagram"></ion-icon>
+                    </a></li>
+                <!-- -<li class="box-social"><a href="#0"> -        <ion-icon name="logo-twitter"></ion-icon>
+                   -    </a></li>
+		   -->
+                <li class="box-social"><a href="https://github.com/nicholaschiang/">
+                        <ion-icon name="logo-github"></ion-icon>
+                    </a></li>
+                <li class="box-social"><a href="https://scholar.google.com/citations?user=BNFc5p8AAAAJ">
+                        <ion-icon name="school"></ion-icon>
+                    </a></li>
             </ul>
         </nav>
         <!-- end nav -->
@@ -83,7 +100,7 @@
     <!-- top bar -->
     <div class="top-bar">
         <h1>contact Me</h1>
-        <p><a href="#">Home</a> / Contact Me</p>
+        <p><a href="#">Home</a> / Contact</p>
     </div>
     <!-- end top bar -->
 
@@ -106,8 +123,8 @@
                     </div>
                     <div class="col-md-12">
                         <div class="input-contact">
-                            <input type="text" name="object">
-                            <span>object</span>
+                            <input type="text" name="objective">
+                            <span>objective</span>
                         </div>
                     </div>
                     <div class="col-md-12">
@@ -124,14 +141,19 @@
         </div>
 
         <div class="col-md-6">
-            <h3 class="text-uppercase">contact me</h3>
-            <h5>Creative & Lorem ipsum dolor sit amet</h5>
+            <h3>Contact Me</h3>
+            <h5>Stand on the shoulders of giants</h5>
             <div class="h-30"></div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliter enim nosmet ipsos nosse non possumus. Inscite autem medicinae et gubernationis ultimum cum ultimo sapientiae comparatur. Tecum optime, deinde etiam cum mediocri amico. Et nemo nimium beatus est; Ac ne plura complectar-sunt enim innumerabilia-, bene laudata virtus voluptatis aditus </p>
-            <div class="contact-info">
-                <p><i class="ion-android-call"></i> 0100 787 3456</p>
-                <p><i class="ion-ios-email"></i> nc26459@pausd.us</p>
-            </div>
+            <p>Don't be afraid to send me a message, but please be sure to
+                include your name, the reason for the message, and the best way
+                that I can contact you again if necessary. Please do not send
+                promotions or anything else that could be considered spam through this
+                mail service.</p>
+            <p>Also note that there are direct links to my socials in the menu
+                above, so if you really need to get in contact, feel free to hit my
+                DMs on any of those platforms. No promises on if I actually ever
+                check them though, so don't be discouraged if you never
+                get a response.</p>
         </div>
 
 
