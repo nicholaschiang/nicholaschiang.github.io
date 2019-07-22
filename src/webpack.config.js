@@ -35,10 +35,11 @@ module.exports = [{
                 // SCSS files contain imports that regard that section of the app 
                 // Main.scss contains imports that appear in multiple sections
                 path.resolve(__dirname, 'styles/main.scss'),
+                path.resolve(__dirname, 'styles/style.scss'),
 
                 // All other styling files are contained as CSS files
-                path.resolve(__dirname, 'styles/style.css'),
                 path.resolve(__dirname, 'styles/bootstrap.min.css'),
+                path.resolve(__dirname, 'styles/ionicons/css/ionicons.min.css'),
             ]
         },
         output: {

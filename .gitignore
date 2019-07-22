@@ -6,7 +6,6 @@
 *.swm
 admin-cred.json
 .firebase
-unused/
 
 # Logs
 logs
